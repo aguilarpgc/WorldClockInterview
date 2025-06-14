@@ -1,6 +1,6 @@
 #  World Clock App in SwiftUI
 
-Coding interview example with SwiftUI/Combine/MVVM concepts
+Coding interview example with SwiftUI/Combine/MVVM concepts ([Andrey Tech](https://www.youtube.com/watch?v=IOttz9qINRQ))
 
 ## Demo
 
